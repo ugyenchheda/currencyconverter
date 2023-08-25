@@ -7,7 +7,7 @@ amount = "50"
 querystring = {"from":currency_from,"to":currency_to,"amount": amount}
 
 headers = {
-	"X-RapidAPI-Key": "970b8bb5e5mshb75460a8d5c5c60p17afb3jsnd738436ab2d3",
+	"X-RapidAPI-Key": "ADD-API-KEY",
 	"X-RapidAPI-Host": "currency-converter18.p.rapidapi.com"
 }
 
